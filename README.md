@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @FariyaIslam
+- 👀 I’m interested in various technologies.
+- :computer: I’m currently practicing Competitive Programming.
